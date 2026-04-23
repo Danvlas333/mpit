@@ -1,5 +1,3 @@
 ollama>=0.4.0
-
-# TTS via Piper
 piper-tts>=1.2.0
 onnxruntime>=1.18.0
