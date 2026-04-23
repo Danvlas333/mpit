@@ -1,0 +1,25 @@
+{
+  "completed": [
+    {
+      "id": "6ceeed000d5ca9bb",
+      "kind": "note",
+      "status": "completed",
+      "title": "Личное задание",
+      "description": "Ипечь хлеб",
+      "date": "2026-03-14",
+      "archived_at": "2026-04-23T07:24:47.184030+00:00"
+    }
+  ],
+  "missed": [
+    {
+      "id": "seed-missed-homework-2026-04-20",
+      "kind": "homework",
+      "status": "missed",
+      "title": "Литература",
+      "description": "Прочитать рассказ Чехова и подготовить краткий пересказ.",
+      "date": "2026-04-20",
+      "archived_at": "2026-04-23T07:59:15.744409+00:00"
+    }
+  ],
+  "trash": []
+}
